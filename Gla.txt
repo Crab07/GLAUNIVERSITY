@@ -1,3 +1,10 @@
 Good afternoon
 
+<<<<<<< HEAD
 sir gay homo
+=======
+
+
+
+
+>>>>>>> d94d6776a8c1a94cac0fcd192daf901942b6a2ea
